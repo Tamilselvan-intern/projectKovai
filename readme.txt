@@ -41,5 +41,4 @@ This project showcases a modern and responsive website with various sections suc
 ****************************************************************************************************
 Thanks&Regards,
 Tamilselvan Guruswamy
-ph:9597825295
-email:tamilguru2@gmail.com
+
